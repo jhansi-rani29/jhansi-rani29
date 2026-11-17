@@ -1,4 +1,4 @@
-"Header" (https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:0891b2&height=190&section=header&text=Jhansi%20Rani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20Exploring%20Generative%20AI&descSize=15&descAlignY=60&descColor=e0e7ff)
+![Header] (https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:0891b2&height=190&section=header&text=Jhansi%20Rani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20Exploring%20Generative%20AI&descSize=15&descAlignY=60&descColor=e0e7ff)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Building+with+Python+%26+Django;Exploring+Generative+AI;Learning+and+Growing+One+Project+at+a+Time" alt="Typing introduction" />
@@ -70,4 +70,5 @@ Let's Connect
 
 <p align="center">
   <i>Learning consistently. Building meaningfully. Growing every day.</i>
-</p>"Footer" (https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:111827&height=100&section=footer)
+</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:111827&height=100&section=footer)
