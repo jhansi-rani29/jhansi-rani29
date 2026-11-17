@@ -1,67 +1,73 @@
-"Header" (https://capsule-render.vercel.app/api?type=waving&color=0:151B35,50:4935A8,100:00C6D7&height=190&section=header&text=JHANSI%20RANI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=PYTHON%20FULL%20STACK%20DEVELOPER%20%7C%20GENAI%20LEARNER&descAlignY=60&descSize=13)
+"Header" (https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312e81,100:0891b2&height=190&section=header&text=Jhansi%20Rani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20Exploring%20Generative%20AI&descSize=15&descAlignY=60&descColor=e0e7ff)
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00C6D7&center=true&vCenter=true&width=550&lines=Building+with+Python+%26+Django;Learning+Generative+AI;Growing+one+project+at+a+time" />BCA Graduate · Hyderabad, India
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Building+with+Python+%26+Django;Exploring+Generative+AI;Learning+and+Growing+One+Project+at+a+Time" alt="Typing introduction" />
+</p>---
 
-"LinkedIn" (https://www.linkedin.com/in/jhansi--rani) · "Email" (mailto:jhansivardham29@gmail.com)
+About Me
 
-</div>---
+Hello! I'm Jhansi Rani, a BCA graduate from India, interested in building practical software applications.
 
-ABOUT ME
+- Python Full Stack Developer aspirant
+- Learning Generative AI and its real-world applications
+- Practising Data Structures and Algorithms
+- Interested in solving problems through code
+- Always learning and building something new
 
-I'm an aspiring Python Full Stack Developer interested in building practical software applications and exploring Generative AI.
-
-- Focused on Python, Django and backend development.
-- Learning Generative AI through hands-on practice.
-- Improving my problem-solving and DSA skills.
-- Interested in learning, building and collaborating.
-
-TECH STACK
+Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>PROJECTS
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>Projects
 
-01 · Career Connect
+Career Connect
 
-AI-Assisted Job & Internship Portal — In Progress
+AI-Assisted Job & Internship Portal
 
-A Django-based platform connecting job seekers and recruiters, with job listings, applications, saved jobs and application management.
+A Django-based project currently in development.
 
-"Python" "Django" "PostgreSQL" "HTML" "CSS" "JavaScript"
+- Job posting and job search
+- Search and filter functionality
+- Job applications and saved jobs
+- Recruiter application management
+- Exploring AI-based job recommendations
 
-02 · Weather Data Dashboard
+Currently building and improving this project.
 
-Academic Project
+Weather Data Dashboard
 
-A Python-based academic project involving weather data visualization using Matplotlib and Pyplot.
+An academic project using Python and Matplotlib to visualize weather-related data.
 
-Source code is not publicly available.
-
-CERTIFICATIONS
+Certifications
 
 - Full Stack Python Programming
 - Wadhwani
 - MB Dost
 
-CURRENTLY LEARNING
+Currently Learning
 
 - Generative AI
-- Data Structures and Algorithms
-- Python problem-solving
+- Python problem-solving and DSA
+- Building practical applications with Django
 
-OPEN TO
+Let's Connect
 
-Open-source collaboration · Internships · Entry-level developer roles · Freelance opportunities
+<p>
+  <a href="https://www.linkedin.com/in/jhansi--rani">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jhansivardham29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>---
 
----
-
-<div align="center">Building skills. Creating projects. Moving forward.
-
-</div>"Footer" (https://capsule-render.vercel.app/api?type=waving&color=0:00C6D7,100:4935A8&height=90&section=footer)
+<p align="center">
+  <i>Learning consistently. Building meaningfully. Growing every day.</i>
+</p>"Footer" (https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:111827&height=100&section=footer)
