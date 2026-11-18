@@ -71,6 +71,5 @@ Let's Connect
 <p align="center">
   <i>Learning consistently. Building meaningfully. Growing every day.</i>
 </p>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:111827&height=100&section=footer)
-
-
